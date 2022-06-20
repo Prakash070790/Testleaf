@@ -1,0 +1,33 @@
+
+1. 
+Driver location and browser
+URL - driver.get("URL")
+
+2. Learn Link and partial linktext
+
+3. Learn Action class to perform mouse actions
+
+4. Use select class to select the dropdown.
+
+5. Learn how to interact with the Buttons and textboxes
+
+6. Learn how to interact with radio buttons
+
+7. Learn how to interact with windows
+
+8. Learn how to interact with Frames
+
+9. Learn how to get the tooltip
+
+10. Learn how to drag and drop
+
+
+
+
+
+
+
+
+
+
+ 
