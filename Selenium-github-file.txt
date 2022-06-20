@@ -21,6 +21,8 @@ URL - driver.get("URL")
 
 10. Learn how to drag and drop
 
+11. Learn how to take a screenshot
+
 
 
 
