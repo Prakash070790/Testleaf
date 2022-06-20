@@ -23,6 +23,8 @@
 
 12. Learn how to download and upload a file using selenium
 
+13. Learn how to interact selectable and sortable
+
 
 
 
