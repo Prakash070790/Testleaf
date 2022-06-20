@@ -21,6 +21,8 @@
 
 11. Learn how to take a screenshot
 
+12. Learn how to download and upload a file using selenium
+
 
 
 
