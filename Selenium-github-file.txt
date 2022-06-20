@@ -1,7 +1,5 @@
 
-1. 
-Driver location and browser
-URL - driver.get("URL")
+1. Driver location and browser - URL - driver.get("URL")
 
 2. Learn Link and partial linktext
 
